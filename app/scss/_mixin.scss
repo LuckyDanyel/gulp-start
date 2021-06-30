@@ -1,0 +1,8 @@
+
+@mixin calcWidth($w, $wcont) {
+      width: $w / $wcont * 100 + 0%;
+}
+
+@mixin media($breakpoint){
+    
+}
